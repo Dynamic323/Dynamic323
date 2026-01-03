@@ -41,8 +41,8 @@ I focus on **clean systems, performance, and real-world problem solving** — no
 - 🌐 **Portfolio:** https://dycoder.vercel.app
 - 📄 **Resume:** https://dycoder.vercel.app/resume
 - 💼 **Clutch:** https://clutch.co/profile/dycoder-israel-otamere
-- 🐦 **X (Twitter): https://x.com/yourusername**
-- 💼 **LinkedIn: https://linkedin.com/in/yourusername**
+- 🐦 **X (Twitter): https://x.com/dy_coder_**
+- 💼 **LinkedIn: https://linkedin.com/in/israel-otamere-304590294**
 
 ---
 
