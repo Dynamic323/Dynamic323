@@ -1,6 +1,6 @@
 # Israel Otamere (DyCoder)
 
-Full-stack Web Developer • Co-founder @ CocoBase (BaaS)
+Full-stack Web Developer •
 
 ---
 
